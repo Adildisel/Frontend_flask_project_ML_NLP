@@ -1,0 +1,31 @@
+body{
+    font-size: 20px;
+}
+
+.container{
+    width: 100%;
+    max-width: 1170px;
+    text-align: center;
+}
+
+#page-preloader{
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: #000;
+
+    z-index: 100;
+}
+
+.spinner{
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    background: url('images/spinner.gif') no repeat 50% 50%:
+    margin: -16px 0 0 -16px;
+    z-index: 500;
+}

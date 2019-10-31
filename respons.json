@@ -1,0 +1,3211 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/D4FbnRZCQmCLfQ8YRVAmibgBUzs\"",
+  "nextPageToken": "QURTSl9pMGRBemZwTEhoQnE5bFpSNXVpbFEtYTc1NVY4VHJEdWFDY2xnLXVCVW5zYkpKWTBWVkRxQ0pfRWJrS0F2dnY4bUhwbnA1RVItTXNfQXZnc3QxRTdPYkFJc2tmM1R0ZkxNTEVOR3kxMi13Z2ZxMG9RMnlDVGs0Zk14TWtfQjFscE9rLWVNUEY5RVZrWU1PcWM0ZUtTelFP",
+  "pageInfo": {
+    "totalResults": 100,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9kEp_eKfogtdFUDwPpwLAYUFiK8\"",
+      "id": "UgzK4H8fKl1GxysnFF54AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/OX0PCHhJ75YxkMDZJtpwmTDl7Sc\"",
+          "id": "UgzK4H8fKl1GxysnFF54AaABAg",
+          "snippet": {
+            "authorDisplayName": "АйТиБорода",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_QOZ2Wh80NL_amom2W8jT72Uo8UdqcFN-xiw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q",
+            "authorChannelId": {
+              "value": "UCeObZv89Stb2xLtjLJ0De3Q"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Первый! С таймлайнами :)<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=00m47s\">00:47</a> - Про учебу и олимпиадное программирование<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=07m16s\">07:16</a> - Пригодилось ли олимпиадное программирование на работе<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=09m04s\">09:04</a> - Почему крупные компании хотят к себе олимпиадников<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=10m04s\">10:04</a> - Про университетские годы<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=10m50s\">10:50</a> - Нужна ли олимпиаднику математика<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=14m35s\">14:35</a> - РЕКЛАМА<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=18m25s\">18:25</a> - Про начало работы<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=27m33s\">27:33</a> - Про работу в Todoist<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=32m04s\">32:04</a> - История Python<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=34m36s\">34:36</a> - Области применения питона<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=41m01s\">41:01</a> - Data Science на пайтоне<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=44m33s\">44:33</a> - Самые яркие отличия питона от других языков<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=49m40s\">49:40</a> - Про пепы (pep)<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=54m25s\">54:25</a> - Асинхронность: GIL, gevent<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h06m26s\">01:06:26</a> - Tornado<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h08m29s\">01:08:29</a> - Twisted<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h09m39s\">01:09:39</a> - Фреймворки: django, flask, tornado, django rest framework<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h20m14s\">01:20:14</a> - ORM: SQLAlchemy, peevee<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h23m25s\">01:23:25</a> - Big Data, Data Science, Machine Learning, Tensor Flow, keras, numpy, pandas и т.д.<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h31m07s\">01:31:07</a> - Программы и окружения, которые используют пайтон-разработчики: IDE, сервера, пакетные менеджеры<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h35m11s\">01:35:11</a> - Самый жирный минус Python<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h37m56s\">01:37:56</a> - Перспективы языка<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h41m11s\">01:41:11</a> - Что знать начинающему Web Python Developer<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h43m08s\">01:43:08</a> - Где брать опыт<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h44m40s\">01:44:40</a> - Что знать начинающему Data Science Engineer<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h46m38s\">01:46:38</a> - Рекомендуемые источники информации<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h51m48s\">01:51:48</a> - Про организацию удаленной работы<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=01h57m04s\">01:57:04</a> - Хобби и личные проекты<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=02h02m38s\">02:02:38</a> - БЛИЦ<br /><a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=02h11m03s\">02:11:03</a> - КОНКУРС",
+            "textOriginal": "Первый! С таймлайнами :)\n00:47 - Про учебу и олимпиадное программирование\n07:16 - Пригодилось ли олимпиадное программирование на работе\n09:04 - Почему крупные компании хотят к себе олимпиадников\n10:04 - Про университетские годы\n10:50 - Нужна ли олимпиаднику математика\n14:35 - РЕКЛАМА\n18:25 - Про начало работы\n27:33 - Про работу в Todoist\n32:04 - История Python\n34:36 - Области применения питона\n41:01 - Data Science на пайтоне\n44:33 - Самые яркие отличия питона от других языков\n49:40 - Про пепы (pep)\n54:25 - Асинхронность: GIL, gevent\n01:06:26 - Tornado\n01:08:29 - Twisted\n01:09:39 - Фреймворки: django, flask, tornado, django rest framework\n01:20:14 - ORM: SQLAlchemy, peevee\n01:23:25 - Big Data, Data Science, Machine Learning, Tensor Flow, keras, numpy, pandas и т.д.\n01:31:07 - Программы и окружения, которые используют пайтон-разработчики: IDE, сервера, пакетные менеджеры\n01:35:11 - Самый жирный минус Python\n01:37:56 - Перспективы языка\n01:41:11 - Что знать начинающему Web Python Developer\n01:43:08 - Где брать опыт\n01:44:40 - Что знать начинающему Data Science Engineer\n01:46:38 - Рекомендуемые источники информации\n01:51:48 - Про организацию удаленной работы\n01:57:04 - Хобби и личные проекты\n02:02:38 - БЛИЦ\n02:11:03 - КОНКУРС",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 35,
+            "publishedAt": "2019-10-24T16:26:29.000Z",
+            "updatedAt": "2019-10-24T18:05:06.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2gWr61uSi3Tc3g80N_nluWu3U5o\"",
+      "id": "Ugw_irFhw2zQ9M96isx4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fdChWjIxJr5xUGukegj6OZ70UEo\"",
+          "id": "Ugw_irFhw2zQ9M96isx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Александр Сахаров",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-PNYIsPiQLTsfQRT0zex1y_OXwER_xjOUwcA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2hphyG-6ROUxlvOod-7uBA",
+            "authorChannelId": {
+              "value": "UC2hphyG-6ROUxlvOod-7uBA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Когда Пайтон?",
+            "textOriginal": "Когда Пайтон?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-31T08:01:58.000Z",
+            "updatedAt": "2019-10-31T08:01:58.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0Hxh5hCsrWUinzI5n0PSyoSnyOk\"",
+      "id": "UgyS-RsBIKl6vo7blRV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/EGIK_w0Fs2soYB8jICeVWFnHkmA\"",
+          "id": "UgyS-RsBIKl6vo7blRV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "gogaserg",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_tWl0HR2xwzXxo-sxo1pBGrmaDuh9A76s06w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCEU0dv44HyhH2-aEX7-apXg",
+            "authorChannelId": {
+              "value": "UCEU0dv44HyhH2-aEX7-apXg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Это видео просто бомба, спасибо борода и спасибо Олегу, он супер. По конкурсу сразу в голове всплыл разговор про будущие фрэймворки и там было словечко Jabba а потом как то само заменилось на «Collaboration Almost Cross Additive Web Query Application» да не без юмора но так интереснее ведь это «CACAWQA» <a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a>",
+            "textOriginal": "Это видео просто бомба, спасибо борода и спасибо Олегу, он супер. По конкурсу сразу в голове всплыл разговор про будущие фрэймворки и там было словечко Jabba а потом как то само заменилось на «Collaboration Almost Cross Additive Web Query Application» да не без юмора но так интереснее ведь это «CACAWQA» #конкурс",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-31T05:00:31.000Z",
+            "updatedAt": "2019-10-31T05:00:31.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ias4KA916dNcqOF4Ft79yIJouWk\"",
+      "id": "UgzZzrGRkhR9PCOCjxl4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/v6UWFhpfIffNoaiiUKbQtIl1eJw\"",
+          "id": "UgzZzrGRkhR9PCOCjxl4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Arseny Konohov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79aSUz-bpCO_VDOKSYwCV2o5Q3haOQjCcPwxA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnCp916sJZ_e98xE2wlr_Hg",
+            "authorChannelId": {
+              "value": "UCnCp916sJZ_e98xE2wlr_Hg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "facepalmX5",
+            "textOriginal": "facepalmX5",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T20:09:51.000Z",
+            "updatedAt": "2019-10-30T20:10:08.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yoWqdg7Tj8Lt_4lJu_YRbvlyvsc\"",
+      "id": "UgzmmM8NaZ29Doc7T-94AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/6DKWrZWkeZyXMOSdpgK1vzjl1Aw\"",
+          "id": "UgzmmM8NaZ29Doc7T-94AaABAg",
+          "snippet": {
+            "authorDisplayName": "QuartZ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-A7Q_uqhCX6rlASRYORS-Yb_R2Vjn4X01UeA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqI730RGOqQ-UvorS-7Ey9g",
+            "authorChannelId": {
+              "value": "UCqI730RGOqQ-UvorS-7Ey9g"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Крутой чел =) всегда интересно послушать того что с головой в теме и она ему действительно нравится.<br />Надо еще раз учесть что человек с шестого класса кодит, жОсткО, я бы сказал с особой жестокость, ему просто не понять что такое не уметь думать. Так что спрашивать его что читать новичку вообще плохая идея. Точнее как, в целом идея парсить на новости твиттеры и редитты имеет смысл, но новички и особенно молодежь в этом деле утонет, они радостно будут потреблять информацию без малейшего анализа. Они же думать не умеют, цифровое слабоумие на дворе =( что-нибудь более твердое нужно бы в качестве платформы для старта. Так что так или иначе надо вначале опираться на книги, как бы скучно это ни казалось.<br />Но интервью мне понравилось, прям море информации. К сожалению от питона отказался в угоду яве =( хотя не очень хочу, но для питона требуется большой беграунд и время.",
+            "textOriginal": "Крутой чел =) всегда интересно послушать того что с головой в теме и она ему действительно нравится.\nНадо еще раз учесть что человек с шестого класса кодит, жОсткО, я бы сказал с особой жестокость, ему просто не понять что такое не уметь думать. Так что спрашивать его что читать новичку вообще плохая идея. Точнее как, в целом идея парсить на новости твиттеры и редитты имеет смысл, но новички и особенно молодежь в этом деле утонет, они радостно будут потреблять информацию без малейшего анализа. Они же думать не умеют, цифровое слабоумие на дворе =( что-нибудь более твердое нужно бы в качестве платформы для старта. Так что так или иначе надо вначале опираться на книги, как бы скучно это ни казалось.\nНо интервью мне понравилось, прям море информации. К сожалению от питона отказался в угоду яве =( хотя не очень хочу, но для питона требуется большой беграунд и время.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T20:09:30.000Z",
+            "updatedAt": "2019-10-30T20:16:44.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/yHJOCDXo9VV4PuTnaN_6EWbqojY\"",
+      "id": "UgzwRncBKkPLisoH6ol4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kmZqfAnQH1QwGHK33SDNr6eLj_M\"",
+          "id": "UgzwRncBKkPLisoH6ol4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Андрей Руссиян",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-cNAZe90Um8AzfsvGXc81O2vVei9PPJKUxZg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyjhyZkG1ipAJ9Ci3m4m6vQ",
+            "authorChannelId": {
+              "value": "UCyjhyZkG1ipAJ9Ci3m4m6vQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "есть вопрос: мне 40 лет,  я директор малого ЧП (производство), стоит ли переходить в IT? текущая ЗП от 100 до 1000 у.е. - сейчас почти свободный график, но тяжелый физический труд, есть высшее образование, опыт проектирования объектов малой энергетики и т.п. куда развиваться?",
+            "textOriginal": "есть вопрос: мне 40 лет,  я директор малого ЧП (производство), стоит ли переходить в IT? текущая ЗП от 100 до 1000 у.е. - сейчас почти свободный график, но тяжелый физический труд, есть высшее образование, опыт проектирования объектов малой энергетики и т.п. куда развиваться?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T18:09:48.000Z",
+            "updatedAt": "2019-10-30T18:09:48.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/97bmLLGWEsJZtk33IFD2nDk5Ymg\"",
+      "id": "UgzBbd_n4fVjYB5CUPh4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JU7s70HIdAUwzn7EIfwfCEfkM_s\"",
+          "id": "UgzBbd_n4fVjYB5CUPh4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Абылай хан",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78h24uqr7t3Vml2Ojp2U2Z9pa0kVQr55W8cow=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4STaT5SOXwYZX0Vz1yzcRw",
+            "authorChannelId": {
+              "value": "UC4STaT5SOXwYZX0Vz1yzcRw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Где приобрести такую же красную футболку?",
+            "textOriginal": "Где приобрести такую же красную футболку?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T17:15:00.000Z",
+            "updatedAt": "2019-10-30T17:15:00.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FPSuuZ7tTRw7NrR9KIR4YN5_zxM\"",
+      "id": "UgxjdRYtwSqfFkBilJJ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sAeHHuueJA21dUXDmErAZoZ4UPA\"",
+          "id": "UgxjdRYtwSqfFkBilJJ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Albert Galin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78CCNKCvBC9NWqEx9QVa6RVkHHsXRAji6qY=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5P0w_aNazkHbIs5KPy-DVw",
+            "authorChannelId": {
+              "value": "UC5P0w_aNazkHbIs5KPy-DVw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> - фреймворк &quot;Царь&quot;",
+            "textOriginal": "#конкурс - фреймворк \"Царь\"",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T16:31:27.000Z",
+            "updatedAt": "2019-10-30T16:31:27.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5ZKw3wxx-eTKkJd8M0tIMub6m_8\"",
+      "id": "UgzTVuqQ3DWYcokswoh4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cjVeVqhoNqlVge1aTyZIfAbnq5Y\"",
+          "id": "UgzTVuqQ3DWYcokswoh4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Albert Galin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78CCNKCvBC9NWqEx9QVa6RVkHHsXRAji6qY=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5P0w_aNazkHbIs5KPy-DVw",
+            "authorChannelId": {
+              "value": "UC5P0w_aNazkHbIs5KPy-DVw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Сппсибо. Все круто раскрыто.",
+            "textOriginal": "Сппсибо. Все круто раскрыто.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T16:27:53.000Z",
+            "updatedAt": "2019-10-30T16:27:53.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Xw3NsA-8AY76aHPctzCEwkbApfA\"",
+      "id": "UgzE8f67oZcDEjYWdxZ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zhUiBFdIFoyTQFXXCa7e8AglLMs\"",
+          "id": "UgzE8f67oZcDEjYWdxZ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Александр Тяпкин",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-POC6ART-ywK_BSrHZvs9MPifVtHIIZPVzIA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiWJKz_5b_2xHwXP_tfZoog",
+            "authorChannelId": {
+              "value": "UCiWJKz_5b_2xHwXP_tfZoog"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Тот патлатый кодер, как и я не умеет объяснять. Что-то там наговорил, и ни**я не понятно)",
+            "textOriginal": "Тот патлатый кодер, как и я не умеет объяснять. Что-то там наговорил, и ни**я не понятно)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T14:30:40.000Z",
+            "updatedAt": "2019-10-30T14:30:40.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QCQNH3Plz0oDjR_CppK1jmoXDws\"",
+      "id": "UgxWgTx2IqpxytaVEKl4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/W1Kk5laQz8V9nv6d-3xAzOp3teg\"",
+          "id": "UgxWgTx2IqpxytaVEKl4AaABAg",
+          "snippet": {
+            "authorDisplayName": "random void",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7905Cig6dPjEkq-UYnUPaETwK2rBpZJpRssYQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQAPgMT0MFJSWMZ7MmkFoBg",
+            "authorChannelId": {
+              "value": "UCQAPgMT0MFJSWMZ7MmkFoBg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Чувак жутно проф. деформированный.\r<br />Быть настолько айтишником и мыслить потоками технической каши - это уже явный перебор и фричество (сам айтишник и знаю, о чем говорю).\r<br />И то, что у него крутая работа и хорошая ЗП, никак это не отменяет.\r<br />Люди, старайтесь оставаться гармоничными личностями и разносторонне дисциплинируйте ваш мозг!",
+            "textOriginal": "Чувак жутно проф. деформированный.\r\nБыть настолько айтишником и мыслить потоками технической каши - это уже явный перебор и фричество (сам айтишник и знаю, о чем говорю).\r\nИ то, что у него крутая работа и хорошая ЗП, никак это не отменяет.\r\nЛюди, старайтесь оставаться гармоничными личностями и разносторонне дисциплинируйте ваш мозг!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2019-10-30T13:17:55.000Z",
+            "updatedAt": "2019-10-30T13:17:55.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/j7icSfLF9DBlllfGA0sTo7Vizog\"",
+      "id": "UgwlPirkmB9u-bH9AhV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-7HVtN30JXMLsKag8yWzu4E1o9I\"",
+          "id": "UgwlPirkmB9u-bH9AhV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "sense",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79vlnqiMH_sElpxeFM6a3sDEhDWZfcSOuUFeA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbYlrBVPbhvgib2Vv-NTc3A",
+            "authorChannelId": {
+              "value": "UCbYlrBVPbhvgib2Vv-NTc3A"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "было бы интересно послушать про IT безопасность (например из Касперского)",
+            "textOriginal": "было бы интересно послушать про IT безопасность (например из Касперского)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T10:13:28.000Z",
+            "updatedAt": "2019-10-30T10:13:28.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/1mGzUDNQEkxDIaS9IFjli3IuT1Y\"",
+      "id": "UgzWFaDPjjNfbwX4mEp4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z2tGD6tZfv8H2568aKU57s9pAhI\"",
+          "id": "UgzWFaDPjjNfbwX4mEp4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Dima Veligurskiy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78Bw0BB8jlEmQ2G_mtS0CIxSYDYqnrPbLveJg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLZpmowl_hm7XTHAP90Cy3A",
+            "authorChannelId": {
+              "value": "UCLZpmowl_hm7XTHAP90Cy3A"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "я кст не хейчу, лайкос поставил",
+            "textOriginal": "я кст не хейчу, лайкос поставил",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T08:48:20.000Z",
+            "updatedAt": "2019-10-30T08:48:20.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/cUkLY_I3ih0Fm0jjSix2mA_A3RY\"",
+      "id": "UgxAj6YCYdaiNhCjanJ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/GiTT1qV6B_rDMY3joH2TzBgfpFA\"",
+          "id": "UgxAj6YCYdaiNhCjanJ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Седой Кот",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_KQof3SyHxILV1FRmVOW3rTBHmHmJPVRpM2Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCshanlccK51fQls-qIikO2A",
+            "authorChannelId": {
+              "value": "UCshanlccK51fQls-qIikO2A"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Асинхронный чувак.",
+            "textOriginal": "Асинхронный чувак.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T08:01:26.000Z",
+            "updatedAt": "2019-10-30T08:01:26.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/avnWhMCmfu572araf3O66vBXjTI\"",
+      "id": "UgwdyETf3um7Tajxjw14AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Hm91H2JSD-diu1ovyHDQZYM65rY\"",
+          "id": "UgwdyETf3um7Tajxjw14AaABAg",
+          "snippet": {
+            "authorDisplayName": "Андрей Попов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l788oxstnH0gXxXwZUHensiQvMYSdgwI0yl6hQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrUMpOkPsDjjq37Vtv9_Ilg",
+            "authorChannelId": {
+              "value": "UCrUMpOkPsDjjq37Vtv9_Ilg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Можно Telegram завернуть через <a href=\"http://tlg.name/\">tlg.name</a> - тогда будет сразу открываться нормально. (Например: <a href=\"https://tlg.name/thecodemedia)\">https://tlg.name/thecodemedia)</a><br />А то в России он заблокирован ;) Понятно дело, что все программисты, разберутся )) Это просто забота.",
+            "textOriginal": "Можно Telegram завернуть через tlg.name - тогда будет сразу открываться нормально. (Например: https://tlg.name/thecodemedia)\nА то в России он заблокирован ;) Понятно дело, что все программисты, разберутся )) Это просто забота.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T07:52:57.000Z",
+            "updatedAt": "2019-10-30T07:56:42.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/crB1PraVHoUQE8D5wwoW1Uitr-w\"",
+      "id": "Ugw9nViG6Emi4DHAY_d4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vwsVAifzFU7NO4bPJc4xxHMxIl8\"",
+          "id": "Ugw9nViG6Emi4DHAY_d4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Dima Veligurskiy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78Bw0BB8jlEmQ2G_mtS0CIxSYDYqnrPbLveJg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLZpmowl_hm7XTHAP90Cy3A",
+            "authorChannelId": {
+              "value": "UCLZpmowl_hm7XTHAP90Cy3A"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Полезное, содержательное видео, но извините меня пожалуйста за доёбистоить, звук - гавно(",
+            "textOriginal": "Полезное, содержательное видео, но извините меня пожалуйста за доёбистоить, звук - гавно(",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T07:32:36.000Z",
+            "updatedAt": "2019-10-30T07:32:36.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/BHRO2MXTUh-_XvxdUDjzKj6-U3o\"",
+      "id": "Ugx3rXyQhDGo1KA_UB54AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/O8sXwA6ad5SVehua06lekSHbPxI\"",
+          "id": "Ugx3rXyQhDGo1KA_UB54AaABAg",
+          "snippet": {
+            "authorDisplayName": "Олег Иванов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79WQi-Hv2fpEQ40fQ5P1YdMfUOgJI4gK5TGxg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQC7GLK3ZmKNQaNLMsE0OvA",
+            "authorChannelId": {
+              "value": "UCQC7GLK3ZmKNQaNLMsE0OvA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Фреймворк «Кролик»<br /><a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a>",
+            "textOriginal": "Фреймворк «Кролик»\n#конкурс",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T07:28:59.000Z",
+            "updatedAt": "2019-10-30T07:28:59.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QCMk2zZv8PfFC1JB82cTgI7m9AY\"",
+      "id": "Ugy0OdORkoyKLT8Cpqx4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3le8iqn5o6HfDAPgldRQPVu2nKU\"",
+          "id": "Ugy0OdORkoyKLT8Cpqx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Андрей Хохлин",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78ZUwZRtqH9Fq0_MemlB0cqwlazYZyE9fysmw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMglZn_Hp_ONekSGjUXuoxw",
+            "authorChannelId": {
+              "value": "UCMglZn_Hp_ONekSGjUXuoxw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "По соглашению приватные методы в Python начинаются с одного подчеркивания, а не с двух <a href=\"https://youtu.be/VFBXx7O9BxU?list=WL&amp;t=2193\">https://youtu.be/VFBXx7O9BxU?list=WL&amp;t=2193</a>",
+            "textOriginal": "По соглашению приватные методы в Python начинаются с одного подчеркивания, а не с двух https://youtu.be/VFBXx7O9BxU?list=WL&t=2193",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T03:42:54.000Z",
+            "updatedAt": "2019-10-30T03:47:10.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zg-bySRmNz45a25wrWW7JwcfIJs\"",
+      "id": "UgykBK6XbkmUc0Oa_sh4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0N8_RnpQ2GO8USAgjGD8oRbKDIE\"",
+          "id": "UgykBK6XbkmUc0Oa_sh4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Алексей Кондратьев",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-H3D2FHJFSjY14ht64pKgc272b0Lja0GiQEw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAZz4HsHfekJzLYFXmL_qQg",
+            "authorChannelId": {
+              "value": "UCAZz4HsHfekJzLYFXmL_qQg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> Vacuum",
+            "textOriginal": "#конкурс Vacuum",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-30T00:26:03.000Z",
+            "updatedAt": "2019-10-30T00:26:03.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ICh6q2aylL1AdIgb5rx9RXQco_E\"",
+      "id": "UgxWegwYgN5eG0TonI54AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Xga6KZ_SqX8ykaE1wtq5XzYso_Y\"",
+          "id": "UgxWegwYgN5eG0TonI54AaABAg",
+          "snippet": {
+            "authorDisplayName": "Lu Ceferon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78bKznSQ2M0gF-UbxNVBey11cTgbNJcuXdFjQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-ZfCD_TPkxZ3YMMtmV7SVA",
+            "authorChannelId": {
+              "value": "UC-ZfCD_TPkxZ3YMMtmV7SVA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Правильно подумал ведущий, пайтон это ведро костылей, которых так сильно не хватает  ленивым ИЗИ Developer-ам :)))..",
+            "textOriginal": "Правильно подумал ведущий, пайтон это ведро костылей, которых так сильно не хватает  ленивым ИЗИ Developer-ам :)))..",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T19:19:18.000Z",
+            "updatedAt": "2019-10-29T19:19:18.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gAMxYzimimvJDk5stjHi_9qbs3s\"",
+      "id": "Ugx1PTKECexTmLpo8G14AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/60aqdnM7TeByMTUX4J-dVmTyC-Q\"",
+          "id": "Ugx1PTKECexTmLpo8G14AaABAg",
+          "snippet": {
+            "authorDisplayName": "mam smotri",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_3AHDCEvENAM0FwpnKuSM6UkynUy82sH0d6Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMJq-bb316XeWnBF7LEujFA",
+            "authorChannelId": {
+              "value": "UCMJq-bb316XeWnBF7LEujFA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "очень интересна тематика, хочется с удовольствием посмотреть интервью. сам в данный момент ищу работу на питоне - перехожу с пхп (наконец-то). но ведущий додик, это очень отталкивает. поэтому стараюсь смотреть только самые важные для меня вопросы.",
+            "textOriginal": "очень интересна тематика, хочется с удовольствием посмотреть интервью. сам в данный момент ищу работу на питоне - перехожу с пхп (наконец-то). но ведущий додик, это очень отталкивает. поэтому стараюсь смотреть только самые важные для меня вопросы.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T18:54:44.000Z",
+            "updatedAt": "2019-10-29T18:54:44.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pcYdRYrW0oQovFUVNQ7X2Fv2k7k\"",
+      "id": "UgwLfIN86sDtbxgo9SB4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wfANOP2HO5vXSy4--skBpNYXmGE\"",
+          "id": "UgwLfIN86sDtbxgo9SB4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Anatoliy Romsa",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-h-48sc14b_5T-TsGAU5zpc10nSI4M6mmXIQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDYt5tl122j5OoddLGRDJ7Q",
+            "authorChannelId": {
+              "value": "UCDYt5tl122j5OoddLGRDJ7Q"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />Веб-фреймворк TypeN<br />Тайпан - такой род змей :)",
+            "textOriginal": "#конкурс\nВеб-фреймворк TypeN\nТайпан - такой род змей :)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T18:52:16.000Z",
+            "updatedAt": "2019-10-29T18:52:16.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IDDwBqR0suSBe7mTHB1rACpy0vM\"",
+      "id": "UgyWeig7QkS9r3UTret4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qH7DmJqDmrDQlKLSyGV9sv-TF9w\"",
+          "id": "UgyWeig7QkS9r3UTret4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Serhio",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78Gr-zljtDLB9OtgWybMzWcbiGzR4Ped7Fm7A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHMgyt3zRSVt7SQUS0m5uHQ",
+            "authorChannelId": {
+              "value": "UCHMgyt3zRSVt7SQUS0m5uHQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Пригласите кого-то попроще кто пишет на python. Такие видео слишком убивают самооценку. Да история его попадания в программирование не очень интересна.",
+            "textOriginal": "Пригласите кого-то попроще кто пишет на python. Такие видео слишком убивают самооценку. Да история его попадания в программирование не очень интересна.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T18:09:01.000Z",
+            "updatedAt": "2019-10-29T18:09:01.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/A0T6J_3qjyoIp4m0aEpOmq0E4XY\"",
+      "id": "Ugz5RSYXOLZnUYcYvdJ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aVLptXSXM0L36OP-M2NLOZXKt_w\"",
+          "id": "Ugz5RSYXOLZnUYcYvdJ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Vitaly Datune",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79erJ_CAcPtQOqlvdyVQV-uRrTVjGMN9InVxA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5uCZbOQjPOmti_-0kK_jYg",
+            "authorChannelId": {
+              "value": "UC5uCZbOQjPOmti_-0kK_jYg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />izzer",
+            "textOriginal": "#конкурс\nizzer",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T18:06:46.000Z",
+            "updatedAt": "2019-10-29T18:06:46.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wnTYqZNBiaUVcXRol59V64b08-g\"",
+      "id": "UgxcbpgWfRI0WJ2f_l94AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QNOGxrgOKdVRbDUFtKW6gJTyP8s\"",
+          "id": "UgxcbpgWfRI0WJ2f_l94AaABAg",
+          "snippet": {
+            "authorDisplayName": "tohoto 21",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-HjbsjksyKrwqElEbd8Lq5eCiySUVjEGc6DQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCu3A5F1FU9Y2gyXq4svaLFw",
+            "authorChannelId": {
+              "value": "UCu3A5F1FU9Y2gyXq4svaLFw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "А что за канал ,где рассказывается математика от нуля до нейронок ?",
+            "textOriginal": "А что за канал ,где рассказывается математика от нуля до нейронок ?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T16:51:52.000Z",
+            "updatedAt": "2019-10-29T16:51:52.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HTQ5VzaQfG_XZGdx2VBvaqU8pU4\"",
+      "id": "Ugw847mbKgJbIski8Pt4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/isVoLMEIV-OwRK656OzFQb0YlWg\"",
+          "id": "Ugw847mbKgJbIski8Pt4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Вадим М",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_nOmK0jxUFPSJ9ko96KCfDJL13r4xgc6PEJw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCd6PX2i8vISdVeIR7qivOCQ",
+            "authorChannelId": {
+              "value": "UCd6PX2i8vISdVeIR7qivOCQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Ждем интерьвю с Владиленом Мининым. Зачем все эти пайтоны, руби, пыхи, когда есть ES2018 и фронтенд пожирающий хлеб бэкэда?",
+            "textOriginal": "Ждем интерьвю с Владиленом Мининым. Зачем все эти пайтоны, руби, пыхи, когда есть ES2018 и фронтенд пожирающий хлеб бэкэда?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T13:59:24.000Z",
+            "updatedAt": "2019-10-29T13:59:24.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g0pU-2lYoj8pkjIUB-3_PtaVtws\"",
+      "id": "UgyvybR3sV_9GYbBqtd4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0g0O8NP9DrLPDlArZjV3Swi2P7g\"",
+          "id": "UgyvybR3sV_9GYbBqtd4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Vlad Torkar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79LxJwG-IgoVno3IoqNNqsne294S2Ug62i8XA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXKoXCFOVmWdyLyycECSAlw",
+            "authorChannelId": {
+              "value": "UCXKoXCFOVmWdyLyycECSAlw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Заук дно, сложно смотреть если есть шумы:(( но лекс ты красава!",
+            "textOriginal": "Заук дно, сложно смотреть если есть шумы:(( но лекс ты красава!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T12:46:06.000Z",
+            "updatedAt": "2019-10-29T12:46:06.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3AI4_X3h3e8-V7yygBxn2dixGSo\"",
+      "id": "UgwNvYro5zLVs-03tgd4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TQ7Qm2j-3nOreL_HHfDX06wSR8M\"",
+          "id": "UgwNvYro5zLVs-03tgd4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Jack Kahuna-Laguna",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7--i13-CxULmoqrcQTGTFT7whBwUf_Py4Qb7g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmMp3S48k_cw62A6MflXNlg",
+            "authorChannelId": {
+              "value": "UCmMp3S48k_cw62A6MflXNlg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />Фреймворк MDS(Mamkin Data Scientist) - позволяет создавать беспилотные полностью автономные межгалактические корабли, зная только таблицу умножения.",
+            "textOriginal": "#конкурс\nФреймворк MDS(Mamkin Data Scientist) - позволяет создавать беспилотные полностью автономные межгалактические корабли, зная только таблицу умножения.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-29T12:18:18.000Z",
+            "updatedAt": "2019-10-29T12:18:43.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/e7cMkZU1KPltkWlA7FsQGpCpUPY\"",
+      "id": "UgzgvscvRL4zpJizYwx4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/e848Ss7biEOD6lOk9lanBMpE0do\"",
+          "id": "UgzgvscvRL4zpJizYwx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "CordeN",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-H4miQQCaDNED0Z2Es_aH_Nc5TpHdlSSZecA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCX2bGoWzDEa_VVUIaUS9sSA",
+            "authorChannelId": {
+              "value": "UCX2bGoWzDEa_VVUIaUS9sSA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Всем советую почитать кое-что очень интересное о Виндертоне!<br />Вы будете смеяться, гарантированно.<br /><a href=\"https://gist.github.com/artanik/a4befb10d52f1347db535181536d2b76\">https://gist.github.com/artanik/a4befb10d52f1347db535181536d2b76</a>",
+            "textOriginal": "Всем советую почитать кое-что очень интересное о Виндертоне!\nВы будете смеяться, гарантированно.\nhttps://gist.github.com/artanik/a4befb10d52f1347db535181536d2b76",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T11:11:55.000Z",
+            "updatedAt": "2019-10-29T11:11:55.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2pP6RAwhEBOpoKSTW35eHXtiHGc\"",
+      "id": "UgylL0QGKpW7H69QPtF4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/O0JBZSa3Z8kE-ZC4z7IuAD0p1uc\"",
+          "id": "UgylL0QGKpW7H69QPtF4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Костя Тен",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79PRqQQYn4OMIIHpcjaS87jmB_z2aGpK5Yw4g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCakAqRiTHa9GneZ6tkbjfeA",
+            "authorChannelId": {
+              "value": "UCakAqRiTHa9GneZ6tkbjfeA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "НА <a href=\"https://www.youtube.com/watch?v=VFBXx7O9BxU&amp;t=54m48s\">54:48</a> человек показывает свои знание в переключение контекста, и не очень понимает что делает OS если один поток переходит в один контекст и в другой и что  происходит с памятью! 10К это не 10 млн. соединений, а 10 тыс rps в секунду.",
+            "textOriginal": "НА 54:48 человек показывает свои знание в переключение контекста, и не очень понимает что делает OS если один поток переходит в один контекст и в другой и что  происходит с памятью! 10К это не 10 млн. соединений, а 10 тыс rps в секунду.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T10:38:42.000Z",
+            "updatedAt": "2019-10-29T10:42:40.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/xFuAsLnMNjLUd6YyBlbOZfzGhJM\"",
+      "id": "Ugw5-W6KoY8IZvqFqAx4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/L0rxKaJ3_EI0rb0SH3iew5GzgKs\"",
+          "id": "Ugw5-W6KoY8IZvqFqAx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Ivan Rubnenkov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-chhW3lDErB_ZgyGIzgwqLSzh7Qe7cX5n7fQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBETkMmyVRQMkZSBGvEEF_A",
+            "authorChannelId": {
+              "value": "UCBETkMmyVRQMkZSBGvEEF_A"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "с гитхаба pip-ом также легчайше тянется в виде одной строчки pip install git+<a href=\"https://github.com/bla/bla/bla\">https://github.com/bla/bla/bla</a>, вообще говоря)<br />tensorflow - не только &quot;граф&quot; действий, а pandas - это не только замена for&#39;ов (опять же там тоже векторизация всовывается везде, где только можно, как и в numpy. Только не с arrays, а со своим dataframe объектом)<br />Спасибо за интерью, было интересно послушать.",
+            "textOriginal": "с гитхаба pip-ом также легчайше тянется в виде одной строчки pip install git+https://github.com/bla/bla/bla, вообще говоря)\ntensorflow - не только \"граф\" действий, а pandas - это не только замена for'ов (опять же там тоже векторизация всовывается везде, где только можно, как и в numpy. Только не с arrays, а со своим dataframe объектом)\nСпасибо за интерью, было интересно послушать.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T10:36:52.000Z",
+            "updatedAt": "2019-10-29T10:40:35.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VMksaRD69RD1kora8l30d6roaxk\"",
+      "id": "Ugy0XXLk7BEX4ZijlVl4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gS9GXcQN54IC7nMhyMnOfQdcDjA\"",
+          "id": "Ugy0XXLk7BEX4ZijlVl4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Сергей Шаблаков",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78XRQwh0UZwgUW8rww_FgC0Pu1g4bgK43e4sQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQ4ElOnXb3vBd1kn5Iw42zg",
+            "authorChannelId": {
+              "value": "UCQ4ElOnXb3vBd1kn5Iw42zg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Это Джим Керри?",
+            "textOriginal": "Это Джим Керри?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T10:32:07.000Z",
+            "updatedAt": "2019-10-29T10:32:07.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PxYakySGIaf8FAkfdIsvpJfeDA8\"",
+      "id": "Ugx6WlX0-esh_0dybMR4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/m4Z7j7VT9LtUoc4-tMMxa6emNN8\"",
+          "id": "Ugx6WlX0-esh_0dybMR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Антон Краснов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-HlaGjwrTike7AkR2xVG316EAbG3-Xw0fgSg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFMMCNG9qqK_zu5j2Jvq-CQ",
+            "authorChannelId": {
+              "value": "UCFMMCNG9qqK_zu5j2Jvq-CQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Олимпиадка, угарал каждый раз как он произносил это слово",
+            "textOriginal": "Олимпиадка, угарал каждый раз как он произносил это слово",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-29T03:49:32.000Z",
+            "updatedAt": "2019-10-29T03:49:32.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZUQ7onoKatHBPuLOjbZ2Y4r9PYs\"",
+      "id": "UgxW6SU_coHQA7EnqeZ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HdpR_65lXVF4tUL7J_Hw-7twYaY\"",
+          "id": "UgxW6SU_coHQA7EnqeZ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Олег Гаценко",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_BF7Wxqrsq0iM7PSvI_5Bw54HtpruozVOlxA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRGv3vUrM3oMrRy4aSW8A8w",
+            "authorChannelId": {
+              "value": "UCRGv3vUrM3oMrRy4aSW8A8w"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "А почему не выкладываете аккаунты на LinkedIn ?",
+            "textOriginal": "А почему не выкладываете аккаунты на LinkedIn ?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T21:56:54.000Z",
+            "updatedAt": "2019-10-28T21:56:54.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R8QnE5CI41kH28vg5J_bVRCFbYI\"",
+      "id": "UgxbCkDUsmSdWQ9KPFd4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pkXjrNdIcHN9zG2vikdwyNRni3s\"",
+          "id": "UgxbCkDUsmSdWQ9KPFd4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Владимир Великий",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7999zZy22Ra72ji86TBh-VsLN4aW89dE6fqVA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpt_A-G5n4GRt7mcPepKqaA",
+            "authorChannelId": {
+              "value": "UCpt_A-G5n4GRt7mcPepKqaA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Возьми интервью у Тимофея Харьянова! Было бы очень интересно почему он преподаватель, а не разработчик на Phytone",
+            "textOriginal": "Возьми интервью у Тимофея Харьянова! Было бы очень интересно почему он преподаватель, а не разработчик на Phytone",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T20:53:15.000Z",
+            "updatedAt": "2019-10-28T20:53:15.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/IkurqU8Ave98SxGMRdmx5tYmty8\"",
+      "id": "UgwTPhMpVkrpPe_u3bV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/VTV5qpifjnm-PXGp2JiS0NtrgKM\"",
+          "id": "UgwTPhMpVkrpPe_u3bV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Евгений Головин",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_Jm-WNR2XfSPebvgyQ9eCH-H5WOY4PTHpyJQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCG0fFOZJBZwUM8IaNNqdKfg",
+            "authorChannelId": {
+              "value": "UCG0fFOZJBZwUM8IaNNqdKfg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "&quot;Олимпиадки&quot;, это тарашкевiца что ли?",
+            "textOriginal": "\"Олимпиадки\", это тарашкевiца что ли?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T18:29:06.000Z",
+            "updatedAt": "2019-10-28T18:29:06.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fpdvuk3gLq9I9y0nDOEFHLso1VY\"",
+      "id": "UgxmZWz99_2izSrHxM14AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/We4294JL5BJJxPAfUe6_iAU36TM\"",
+          "id": "UgxmZWz99_2izSrHxM14AaABAg",
+          "snippet": {
+            "authorDisplayName": "Eugene M",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-zUIC3w2s2e7-OOmQGqG7QkURbv75OeTCRaQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtZm2MFL3XdHH6sqDLQduuQ",
+            "authorChannelId": {
+              "value": "UCtZm2MFL3XdHH6sqDLQduuQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "У него телка есть?",
+            "textOriginal": "У него телка есть?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T18:15:46.000Z",
+            "updatedAt": "2019-10-28T18:15:46.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/v_uMDU-9Yl9IQOV_CiT3DUR_8hQ\"",
+      "id": "UgwvNpwjNI3MnMt2qo94AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HsqEs8vU9Y9fO8jNQAqKjxFyz58\"",
+          "id": "UgwvNpwjNI3MnMt2qo94AaABAg",
+          "snippet": {
+            "authorDisplayName": "Meskirian",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-ExC8cX3N5P9xT_4XYiNEhHYsMiH0FGQhctw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvvKg-oCNJbeSKMy8mzbHug",
+            "authorChannelId": {
+              "value": "UCvvKg-oCNJbeSKMy8mzbHug"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Как же костноязыко и дооолго! Борода, учись у дудя, результат интервью д/б час. И тема питона не раскрыта.",
+            "textOriginal": "Как же костноязыко и дооолго! Борода, учись у дудя, результат интервью д/б час. И тема питона не раскрыта.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T15:55:32.000Z",
+            "updatedAt": "2019-10-28T15:56:22.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/r3ZSut3g7bHZ-aFWW3AYBzqywGo\"",
+      "id": "Ugz3HU4mE38ZuDLA-iJ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/73RTEnrYiQpaYUCtbPoFMdR0BWY\"",
+          "id": "Ugz3HU4mE38ZuDLA-iJ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "андрей горничар",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_w1_3_6h99Cev8fkAxNk7hsMSc5HH1i2eZhQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2dZCx8dsoTEIDBEvg-ck4Q",
+            "authorChannelId": {
+              "value": "UC2dZCx8dsoTEIDBEvg-ck4Q"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"https://ebanoe.it/2016/11/17/unit-factory-slavery/\">https://ebanoe.it/2016/11/17/unit-factory-slavery/</a>",
+            "textOriginal": "https://ebanoe.it/2016/11/17/unit-factory-slavery/",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T14:19:02.000Z",
+            "updatedAt": "2019-10-28T14:19:02.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/_XSGpJWtB_6aXoV_Iiw_BRlAz8A\"",
+      "id": "UgzxhNrxOQV5QhWvEBh4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/425k9SH7ifAfn4V_Sy2aQoMdwBs\"",
+          "id": "UgzxhNrxOQV5QhWvEBh4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Антон Шумилкин",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79w5Ie9gLc8Gb9mwaXRgMqg7qBM9A5B0rajOA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCX6WYEbtD3IH49Bx9_vAzw",
+            "authorChannelId": {
+              "value": "UCCX6WYEbtD3IH49Bx9_vAzw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />PyPain - для тех, кому в Python не хватает жести и сложности.",
+            "textOriginal": "#конкурс\nPyPain - для тех, кому в Python не хватает жести и сложности.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T14:12:39.000Z",
+            "updatedAt": "2019-10-28T14:12:39.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/b6UCmpRCwHJ1C5sekBpQcDTyQZg\"",
+      "id": "UgwJcltykQIwy_IX5Dt4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/gDX0-5HwlOmXM-QLgFMilCr3g7k\"",
+          "id": "UgwJcltykQIwy_IX5Dt4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Ernest Denisov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78oKqsBGjOK7t_0KppUmHOOC1B0-Aa3gD26rg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGUiaBqZdf3LefchdLuUbXA",
+            "authorChannelId": {
+              "value": "UCGUiaBqZdf3LefchdLuUbXA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "даже Олег ЛСП ушёл в IT",
+            "textOriginal": "даже Олег ЛСП ушёл в IT",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T13:56:10.000Z",
+            "updatedAt": "2019-10-28T13:56:10.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/iRh6tf-4Iv7j4ppIcqohoIsLhVQ\"",
+      "id": "UgzsMDpkLBs5FUrlrFN4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XBsm1PM6PW4nlIK-AOsjMBYS9Ek\"",
+          "id": "UgzsMDpkLBs5FUrlrFN4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Lag- Kuti",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79Ntovx5sshacBFMMX6lNjq1LqB9_QiCFWY=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCWrULPosh9-kyoYIKjEE3rA",
+            "authorChannelId": {
+              "value": "UCWrULPosh9-kyoYIKjEE3rA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Олег Лебовский?",
+            "textOriginal": "Олег Лебовский?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T12:55:12.000Z",
+            "updatedAt": "2019-10-28T12:55:12.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/kKe3-xvPH3z-ILEUAhupLGmXDTU\"",
+      "id": "Ugxtep5cAowXDbFiTwd4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PeEnLcIZj8qjZfCgcR5eG3rm7ec\"",
+          "id": "Ugxtep5cAowXDbFiTwd4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Sergey Lazebny",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79I9oXRoiWqMLUG8PRPSeUsVnwOYru20kSbQw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDvDMNiGo02v1i50JjAqEDQ",
+            "authorChannelId": {
+              "value": "UCDvDMNiGo02v1i50JjAqEDQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br /><a href=\"http://jesus.py/\">Jesus.py</a> - спасет и сохранит от грешного кода",
+            "textOriginal": "#конкурс\nJesus.py - спасет и сохранит от грешного кода",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T12:37:44.000Z",
+            "updatedAt": "2019-10-28T12:37:44.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wyHQq7EX0oNyrtjm948R8J6gGwA\"",
+      "id": "Ugxu-WN6jpNEckIfx-Z4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/NqAf8AyXJRSADRg21deM4B7JSMY\"",
+          "id": "Ugxu-WN6jpNEckIfx-Z4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Sergey Zarin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78eg2KmmBJ5dpit4QgWWQU3AkFx7P9T-K8seg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNaaDsm-fSOnr1AZuFg1bYw",
+            "authorChannelId": {
+              "value": "UCNaaDsm-fSOnr1AZuFg1bYw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Ребят, только за одну постановку кадра можно поставить лайк!<br />Просто невероятная симметричность :) долго камеру ставили?  ))",
+            "textOriginal": "Ребят, только за одну постановку кадра можно поставить лайк!\nПросто невероятная симметричность :) долго камеру ставили?  ))",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T11:58:03.000Z",
+            "updatedAt": "2019-10-28T11:58:03.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TCkHYEXWVUefbgJJvFr61nfzdsk\"",
+      "id": "UgwK-OXSVhDHnA93u994AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5KWEw6ogeUHDXs-fDmo-LfUMkCs\"",
+          "id": "UgwK-OXSVhDHnA93u994AaABAg",
+          "snippet": {
+            "authorDisplayName": "Розовый Гусь",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-CNQf9Z58khB4AnXfvSsHL0TqdTRKPOgQO5w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCT2eHBmX3QBDlfU9xmeTxjw",
+            "authorChannelId": {
+              "value": "UCT2eHBmX3QBDlfU9xmeTxjw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#Конкурс</a> BackToTheFuture",
+            "textOriginal": "#Конкурс BackToTheFuture",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T10:58:48.000Z",
+            "updatedAt": "2019-10-28T10:59:20.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/zUDVr8c3JYtIknz8AYESO_OQfvs\"",
+      "id": "UgyfaexLrbeluFRepYt4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3k5XYp9SQ56E4oimC9zTr7ieSXM\"",
+          "id": "UgyfaexLrbeluFRepYt4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Сергей Захаров",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-6mHH0ZqRP3JSw3F41qveS2xFEMMo5BUZFmg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_IdE8o_iBY7C1WY3N07SQg",
+            "authorChannelId": {
+              "value": "UC_IdE8o_iBY7C1WY3N07SQg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Круто! Спасибо! Понравилось интервью!",
+            "textOriginal": "Круто! Спасибо! Понравилось интервью!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T10:52:49.000Z",
+            "updatedAt": "2019-10-28T10:52:49.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/MT3oC8rVoZvv_Q8UN_JzCEUAZmI\"",
+      "id": "Ugz_leQWo1CAv6nfH5V4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4aMT5LMrTX7TpnKE_cnUcvM9Bec\"",
+          "id": "Ugz_leQWo1CAv6nfH5V4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Александр Теплов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78xQnKarf0m5I4VVKHRL8lToLX4LDyNxIVODQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVFFihpBBxUJCF01YxSy6Pw",
+            "authorChannelId": {
+              "value": "UCVFFihpBBxUJCF01YxSy6Pw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Я ниасилил даже с третьей попытки. Ну ооооочень много разных нюансов. Лучше делать интервью покороче, или как то логически разбивать на 2 или 3 части.",
+            "textOriginal": "Я ниасилил даже с третьей попытки. Ну ооооочень много разных нюансов. Лучше делать интервью покороче, или как то логически разбивать на 2 или 3 части.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T10:28:14.000Z",
+            "updatedAt": "2019-10-28T10:28:14.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/A8PcAi4j6QWVQl9g9IF3cWeku80\"",
+      "id": "Ugz7CUsQBXz_j10aH6t4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/u4ch64IREuen7PZXA1xNKgcucrQ\"",
+          "id": "Ugz7CUsQBXz_j10aH6t4AaABAg",
+          "snippet": {
+            "authorDisplayName": "neutrallucifer3",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78R3wq-f3swh3uu_CBIXNTE4FlPBMpSIEF2Bw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLL43y54_l0KQCXgWH3Y0mQ",
+            "authorChannelId": {
+              "value": "UCLL43y54_l0KQCXgWH3Y0mQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Я питончика называю фузон :D",
+            "textOriginal": "Я питончика называю фузон :D",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T10:08:14.000Z",
+            "updatedAt": "2019-10-28T10:08:14.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Rgam7nhjcZyXGj49RhWav1PwvXY\"",
+      "id": "UgyNaDMSUn0CpXoF5nZ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Q_gd6nAU3fRKYWUTgJRYwpTpvPw\"",
+          "id": "UgyNaDMSUn0CpXoF5nZ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Egor Skvarantsov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79oC1AG2gemBnKaNI_4Mkfv1UBEavCNVvmA5w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZb0UxTC0I7DcHcW92lFGdQ",
+            "authorChannelId": {
+              "value": "UCZb0UxTC0I7DcHcW92lFGdQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "cook~snake",
+            "textOriginal": "cook~snake",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T09:49:14.000Z",
+            "updatedAt": "2019-10-28T09:49:14.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3kqx_rFCytVYVuc_MUXVsEpHso4\"",
+      "id": "UgzONAwRrEGy5RWVwUl4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qdj58gvjS0fYWy_Xqy6fu137IhM\"",
+          "id": "UgzONAwRrEGy5RWVwUl4AaABAg",
+          "snippet": {
+            "authorDisplayName": "i. mntst",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79-bt3N2iVhnvChkk5f7MF207eqdSYR6MW-4w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjoGZWG3t63_evwO1DM27XA",
+            "authorChannelId": {
+              "value": "UCjoGZWG3t63_evwO1DM27XA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "фреймворк: cat",
+            "textOriginal": "фреймворк: cat",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T09:35:32.000Z",
+            "updatedAt": "2019-10-28T09:35:32.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/NNNzBKS7UBxZQdP5oczhNzNPVI4\"",
+      "id": "UgwURTfYQ5aNo16X3bV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R5fkC3-LKHPWWVgiwtnaqZdcq1U\"",
+          "id": "UgwURTfYQ5aNo16X3bV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Galo Gramma",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_aSlVE5HKnToFL2rp0J8ZGvdYZ7tg5M7XsxA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnPJikTa6Tct11xy53Vq6JA",
+            "authorChannelId": {
+              "value": "UCnPJikTa6Tct11xy53Vq6JA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "услышал про детство, закрыл вкладку..",
+            "textOriginal": "услышал про детство, закрыл вкладку..",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T08:53:06.000Z",
+            "updatedAt": "2019-10-28T08:53:06.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/q783ZRmaByvrKp-cKISxZR-4yUE\"",
+      "id": "UgzF1qw55rk7TlBmpMR4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vte2wyilKi1IzEFmpgSHywX2VMg\"",
+          "id": "UgzF1qw55rk7TlBmpMR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Anton Aks",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-dTWh2I3_zbJ97vEUbpNuYrCfPm49CrqLvnQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVplzEWpkkDcec6UvHTDFow",
+            "authorChannelId": {
+              "value": "UCVplzEWpkkDcec6UvHTDFow"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Спасибо. Хороший чувак. <br />Теперь ждем интервью с свитчером. Например был до 2016 продавцом обоев, а сейчас Senior Software Engineer. :)",
+            "textOriginal": "Спасибо. Хороший чувак. \nТеперь ждем интервью с свитчером. Например был до 2016 продавцом обоев, а сейчас Senior Software Engineer. :)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T08:33:36.000Z",
+            "updatedAt": "2019-10-28T08:33:36.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/E6zqVhTYSf7-rJEQQAvgk-XfH0o\"",
+      "id": "UgyVeWW1QFXMyttvoGV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/z2ExCXu2klD6wg87DvYm9MyDXzA\"",
+          "id": "UgyVeWW1QFXMyttvoGV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Anton Pipka",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79VVRxWJ_xb54gUkdE2SK6kkuvg1PLl8TUNhQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCehVy2CsOLvFZK6KKuRAyzw",
+            "authorChannelId": {
+              "value": "UCehVy2CsOLvFZK6KKuRAyzw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br /><br />Grail",
+            "textOriginal": "#конкурс\n\nGrail",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T08:19:19.000Z",
+            "updatedAt": "2019-10-28T08:19:19.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tGkFUJBC9chavOnOIlkj8zWWgRw\"",
+      "id": "UgxQJfEdkFzpfEEJ37F4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ak8BpGi_QuoyNpE0g_IDjEvnKgQ\"",
+          "id": "UgxQJfEdkFzpfEEJ37F4AaABAg",
+          "snippet": {
+            "authorDisplayName": "i. mntst",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79-bt3N2iVhnvChkk5f7MF207eqdSYR6MW-4w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjoGZWG3t63_evwO1DM27XA",
+            "authorChannelId": {
+              "value": "UCjoGZWG3t63_evwO1DM27XA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "видно человек прямо живет этим, и очень интересно рассказывает )) спасибо за видео!",
+            "textOriginal": "видно человек прямо живет этим, и очень интересно рассказывает )) спасибо за видео!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-28T06:58:52.000Z",
+            "updatedAt": "2019-10-28T06:58:52.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/uP7kCKcJefwfwK0LOBmg27H0QI0\"",
+      "id": "UgxO7dqYieeABAM-iT94AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3ouKgqQ07xM3jlxinbHZFajBV_o\"",
+          "id": "UgxO7dqYieeABAM-iT94AaABAg",
+          "snippet": {
+            "authorDisplayName": "Oleksandr Strilchuk",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-T_y6SJOJVKG0Y-lr7RixSnNL0aXKHvHiRCA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKeuGHzZVN2Hx-1AGCVrz1w",
+            "authorChannelId": {
+              "value": "UCKeuGHzZVN2Hx-1AGCVrz1w"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Джим Керри это ты?",
+            "textOriginal": "Джим Керри это ты?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T06:51:28.000Z",
+            "updatedAt": "2019-10-28T06:51:28.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/fAsBcrs2vu5o0w62GNCf1CpriF8\"",
+      "id": "UgwiFHnXEXeUFTKSuth4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PC5aq33Ul9W9v0woLTWCXby3IbY\"",
+          "id": "UgwiFHnXEXeUFTKSuth4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Aliaksandr Sayenka",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-4tf0T54Y9jgYOJvPDYDRJijP6Nx0r_fnbYA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAOZONDLTepHf08Hs7vI_mg",
+            "authorChannelId": {
+              "value": "UCAOZONDLTepHf08Hs7vI_mg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Слушаю про всякие тулсы. Нихрена не понял, но очень интересно.",
+            "textOriginal": "Слушаю про всякие тулсы. Нихрена не понял, но очень интересно.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-28T00:50:00.000Z",
+            "updatedAt": "2019-10-28T00:50:00.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/s6-3U-NIv0TaJRmImJNzirhOPXo\"",
+      "id": "UgyTtEFAYlQ9HJu4gxR4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vyP1A2tangbG5KTCOKJ8koGcW6w\"",
+          "id": "UgyTtEFAYlQ9HJu4gxR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Vitaly Gusakov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79dcwrJXsMvaJ3qusiEoNJc1-BvufA2Nd20iA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgizSIPQB9_GRrjowS_tUWA",
+            "authorChannelId": {
+              "value": "UCgizSIPQB9_GRrjowS_tUWA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Найди персонажа из народа. Чтобы с IT столкнулся не в школе,  а уже где-нибудь на курсах. Не интересно смотреть тех, кто с детства в IT. Ребят, поддержите лайком.",
+            "textOriginal": "Найди персонажа из народа. Чтобы с IT столкнулся не в школе,  а уже где-нибудь на курсах. Не интересно смотреть тех, кто с детства в IT. Ребят, поддержите лайком.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T20:55:38.000Z",
+            "updatedAt": "2019-10-27T20:55:38.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0TGraO9cVoDJOjtjgOoudRukvu4\"",
+      "id": "UgwyF_KVu1cJ5XHtUqx4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9FkrxE95Ye4D24JGa0ttGQvwTps\"",
+          "id": "UgwyF_KVu1cJ5XHtUqx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Igor Kulibaba",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-0_uQlDg1r_TuQWszD-QNxdCYbFYlxM1U_dQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXrjNA5Y0-g4GuW6q7b5wTw",
+            "authorChannelId": {
+              "value": "UCXrjNA5Y0-g4GuW6q7b5wTw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Огонь, спасибо за позитивного собеселника,",
+            "textOriginal": "Огонь, спасибо за позитивного собеселника,",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-27T19:20:42.000Z",
+            "updatedAt": "2019-10-27T19:20:42.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ny7F6lbZ11AoZBn03zow9I2-cRk\"",
+      "id": "UgxxLkprEyY6uTHoc8F4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/R1PsAt2XwuONURPAkfHZfOI1RYc\"",
+          "id": "UgxxLkprEyY6uTHoc8F4AaABAg",
+          "snippet": {
+            "authorDisplayName": "RoyalMaster kurilchik",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79Xy1HrICzeTL0453nkvp4NPMlDba_UiZNdjw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMNhFXPsR0pOsnz3JP5eBnQ",
+            "authorChannelId": {
+              "value": "UCMNhFXPsR0pOsnz3JP5eBnQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "А где искать информацию о Hackathon в Минске?",
+            "textOriginal": "А где искать информацию о Hackathon в Минске?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T18:35:26.000Z",
+            "updatedAt": "2019-10-27T18:35:26.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/xZXMSRh7WcNahTwIScjzs_KX4NE\"",
+      "id": "UgzhNyTidPUSTJlF0Ft4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qIR_sMV6eTpzT2BGffq57J0T5YU\"",
+          "id": "UgzhNyTidPUSTJlF0Ft4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Денис Нихаев",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_bwwNxFG38PNSu493UaZz9XnGoeOjfBZDHsQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxsXxuGZ4eyXvJeqXrmGkgw",
+            "authorChannelId": {
+              "value": "UCxsXxuGZ4eyXvJeqXrmGkgw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a>\r<br />WebTango-PaPy (веб фреймворк)",
+            "textOriginal": "#конкурс\r\nWebTango-PaPy (веб фреймворк)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T18:30:27.000Z",
+            "updatedAt": "2019-10-27T18:30:27.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Sva9z2obNon2Rf9OWUdWJ2d2sIA\"",
+      "id": "UgyCIQNFWy-_iM-Nr594AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0ASipNiBtYm5I43D5qcJp-mmFVg\"",
+          "id": "UgyCIQNFWy-_iM-Nr594AaABAg",
+          "snippet": {
+            "authorDisplayName": "RWFS technologies",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79F6f_J7zd15UvSJlDxNChbdajMYLfYS2Zojw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4apDT8h7gH8aGxGSfqhvMA",
+            "authorChannelId": {
+              "value": "UC4apDT8h7gH8aGxGSfqhvMA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "тема Python on rails 6.0 не раскрыта",
+            "textOriginal": "тема Python on rails 6.0 не раскрыта",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T18:07:09.000Z",
+            "updatedAt": "2019-10-27T18:07:29.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/03EdczuQwe3uOLYiIV0NpMBJrgo\"",
+      "id": "UgyRIRHyKubzVGqJu7t4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/b15iK5sNNW-rVdFqWHMzuskiK44\"",
+          "id": "UgyRIRHyKubzVGqJu7t4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Виктор Павлов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l798T1cThdQsSXlrNTw6IRI6r_u4mnRBCf7WzQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC249soSq12dgz6Xqo4ue1OQ",
+            "authorChannelId": {
+              "value": "UC249soSq12dgz6Xqo4ue1OQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> webpyc который позволяет выкладывать свой *пук в интернет, использовать его как ассоциативный метод обучения со смешными функциями.",
+            "textOriginal": "#конкурс webpyc который позволяет выкладывать свой *пук в интернет, использовать его как ассоциативный метод обучения со смешными функциями.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T16:11:13.000Z",
+            "updatedAt": "2019-10-27T16:11:13.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ag4I0vTdFOf13g4DWpMZ0A3H798\"",
+      "id": "Ugx9myI62xTuNiMe5FR4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3BOnKokQnPyN_fFy9RL5IqPje50\"",
+          "id": "Ugx9myI62xTuNiMe5FR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Сергей Борисов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_edRIHz2_cUAXLMGy_769C0H7FUvcN4_oGow=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPO6OWbQmlofADRtKfL25Mg",
+            "authorChannelId": {
+              "value": "UCPO6OWbQmlofADRtKfL25Mg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Приятно смотреть и слушать человека, когда ему действительно по кайфу то, чем он занимается и то, что ему самому очень интересно!",
+            "textOriginal": "Приятно смотреть и слушать человека, когда ему действительно по кайфу то, чем он занимается и то, что ему самому очень интересно!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T15:35:09.000Z",
+            "updatedAt": "2019-10-27T15:35:09.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vxhUVYfQ8xNcsHe7hhqoQsv3KR0\"",
+      "id": "UgwaZjGE2S-vheNDRuF4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/eTV_HJvLzpkyAEMu7NEpPp647tU\"",
+          "id": "UgwaZjGE2S-vheNDRuF4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Vasil H",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79vomtWIUlRGe5-uyZuz29JgTGzRBPPwCkJAw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgciSl6Hmcb3y4duclW3GkQ",
+            "authorChannelId": {
+              "value": "UCgciSl6Hmcb3y4duclW3GkQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Борода, донатить - жаба, но я хотя бы не пропускаю рекламу)",
+            "textOriginal": "Борода, донатить - жаба, но я хотя бы не пропускаю рекламу)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T15:18:59.000Z",
+            "updatedAt": "2019-10-27T15:18:59.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/eeuNs4l-vAsHuC4qX0DqOAHlkX4\"",
+      "id": "Ugx9mA5uz8YF_ZhJv6h4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/FuXW6Ktfs0CCdyEtfOTGrmj31X8\"",
+          "id": "Ugx9mA5uz8YF_ZhJv6h4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Max Korsakov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78D_RxgLetpgcnLFS3lYJLDH4UR0jGARrqJfg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwtco2Wt9Yj-SJw41K03tVg",
+            "authorChannelId": {
+              "value": "UCwtco2Wt9Yj-SJw41K03tVg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Я человек простой: если чувак похожий на Иешуа говорит, что Python круто - то на хрен .Net)))",
+            "textOriginal": "Я человек простой: если чувак похожий на Иешуа говорит, что Python круто - то на хрен .Net)))",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-27T14:51:02.000Z",
+            "updatedAt": "2019-10-27T14:51:02.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/S-c7KBNOo-QcWSVl6MB943vo00o\"",
+      "id": "Ugzix_j-9Ff5ug302XV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/CcdrT1SHkLIAtaX6nuiobyrrRKc\"",
+          "id": "Ugzix_j-9Ff5ug302XV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Алексей Орлов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_086DqjztlRL6otJO49pH-TcXML3m0w9u4lg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKQOW3wtLbc-qBo2w5opJiw",
+            "authorChannelId": {
+              "value": "UCKQOW3wtLbc-qBo2w5opJiw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Спасибо большое) давай гошника:)",
+            "textOriginal": "Спасибо большое) давай гошника:)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T14:20:31.000Z",
+            "updatedAt": "2019-10-27T14:20:31.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/g5o0_u9xabeOrXhSW3SH4K3if9k\"",
+      "id": "UgzFU9YeiioHoiJF3QN4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2EYoCcAbw9PTR0Z4QoKzvmHk6O4\"",
+          "id": "UgzFU9YeiioHoiJF3QN4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Daniil Rybalka",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79jj5qiGzvc7pzEku3fCspBZgvyPykQSsKktQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBYIx-hRkj-XyxYJgmKhJ3g",
+            "authorChannelId": {
+              "value": "UCBYIx-hRkj-XyxYJgmKhJ3g"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />.NETpy",
+            "textOriginal": "#конкурс\n.NETpy",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-27T13:10:29.000Z",
+            "updatedAt": "2019-10-27T13:10:29.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/P_ykDsp2nFZ4uXhXuCCfuqnFxx4\"",
+      "id": "UgyhM6RA0cX-Q7yQnMR4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qGRLPY-NQHSHNnNppU4vNF9t4Xk\"",
+          "id": "UgyhM6RA0cX-Q7yQnMR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Дмитрий Федоров",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78uF2FccML9nPT3Z0gp2JMJQq4XTjipmsme_Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2Un-C6ZBA86v-E2Q3mvMKA",
+            "authorChannelId": {
+              "value": "UC2Un-C6ZBA86v-E2Q3mvMKA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Мне кажется, что олимпиадники больше подойдут для каких-либо фундаментальных  вещей, поскольку они не задумываются о бизнес-велью, но при этом могут дать производительный продукт.",
+            "textOriginal": "Мне кажется, что олимпиадники больше подойдут для каких-либо фундаментальных  вещей, поскольку они не задумываются о бизнес-велью, но при этом могут дать производительный продукт.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T11:54:19.000Z",
+            "updatedAt": "2019-10-27T11:54:19.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0ekidijwuzXaae4Eo3WtMgtWnq0\"",
+      "id": "UgxOmT7YlVL7GVXmb6l4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZgH7CN-kOk1R-A3fhks8EEOj1zw\"",
+          "id": "UgxOmT7YlVL7GVXmb6l4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Dmitry Pikalo",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78gPgUzz1BiNSKBxDSP7Hqxde08x7DhIP4IWA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCccG1St-jseBmt5X27v7nfw",
+            "authorChannelId": {
+              "value": "UCccG1St-jseBmt5X27v7nfw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> <br />PeaceData веб фреймворк(замена graphQL)",
+            "textOriginal": "#конкурс \nPeaceData веб фреймворк(замена graphQL)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T10:56:34.000Z",
+            "updatedAt": "2019-10-27T10:56:34.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/LcCYynA1zsyK76YZX9hhX1ZQn-M\"",
+      "id": "Ugz8nUmTw3PHl3A7KQJ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZjxiO-5U8ZNm2oqXQRCkGXS4wIM\"",
+          "id": "Ugz8nUmTw3PHl3A7KQJ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Bangle Broot",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_QO6GWk8yln3M0T2SG9-QH6rt4WULLRbj56Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPmMV23r78wj1W70694xXBw",
+            "authorChannelId": {
+              "value": "UCPmMV23r78wj1W70694xXBw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />В будущем Пайтон воссядет на трон ЯП, а подтолкнёт его к этому супер хайповый и изящный веб-фреймворк PyshKing. В нём можно будет юзать ямб и хорей и прочие прелести стихотворной формы, для получения запоминающегося и часто-читаемого лирического кода",
+            "textOriginal": "#конкурс\nВ будущем Пайтон воссядет на трон ЯП, а подтолкнёт его к этому супер хайповый и изящный веб-фреймворк PyshKing. В нём можно будет юзать ямб и хорей и прочие прелести стихотворной формы, для получения запоминающегося и часто-читаемого лирического кода",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T10:37:30.000Z",
+            "updatedAt": "2019-10-27T10:37:30.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/jf1kiwG7QPsmbVzbUOZgr-eFmoY\"",
+      "id": "Ugzon0nK3kZIKvmVAsh4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/WtlHQlvEnEyGfpNWfnwUtzQ_srk\"",
+          "id": "Ugzon0nK3kZIKvmVAsh4AaABAg",
+          "snippet": {
+            "authorDisplayName": "John D",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_ct86WEY-xxxghvoVhEhmaDoewdJvvbHE8qw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC53_ZLPEX-xfBEhqSTEVmWQ",
+            "authorChannelId": {
+              "value": "UC53_ZLPEX-xfBEhqSTEVmWQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Пригласите плс Владилена Минина!",
+            "textOriginal": "Пригласите плс Владилена Минина!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T09:59:24.000Z",
+            "updatedAt": "2019-10-27T09:59:24.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tAgT0CnYZrArIcLjd8jVFNeJcOY\"",
+      "id": "Ugy4QAQor9D63bp1Bad4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DOHbraqgFBXgax5dTQ10x5EilbI\"",
+          "id": "Ugy4QAQor9D63bp1Bad4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Павел Калиновский",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_FbXs3adTkNRxxo59SergvaOHfLEEhkL28Mg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC99C8te0f1BctfsQKsLmPSg",
+            "authorChannelId": {
+              "value": "UC99C8te0f1BctfsQKsLmPSg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#Конкурс</a><br />POQPy (покупай) - purchase online quickly python, раз уж мы про веб - фреймворк для упрощения работы с транзакциями. <br />P.S. а раз про будущее, пусть будут транзакции с криптой",
+            "textOriginal": "#Конкурс\nPOQPy (покупай) - purchase online quickly python, раз уж мы про веб - фреймворк для упрощения работы с транзакциями. \nP.S. а раз про будущее, пусть будут транзакции с криптой",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-27T09:46:38.000Z",
+            "updatedAt": "2019-10-27T09:46:38.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/i8mHYWPW7bArZ5NqJen_ZXcYdno\"",
+      "id": "UgwozJZ3ux6uIhG1y694AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9VpzzwdZJ8C3dyjIR1xLLAp6fPc\"",
+          "id": "UgwozJZ3ux6uIhG1y694AaABAg",
+          "snippet": {
+            "authorDisplayName": "Ильнур Ряжапов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79k_ZlnL1fqDeJkwpe_764agBGJOR5y9r7k5Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtYFp3Wt6nZR33NNwvmNYpw",
+            "authorChannelId": {
+              "value": "UCtYFp3Wt6nZR33NNwvmNYpw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Давай интервью с Владиленом Мининым",
+            "textOriginal": "Давай интервью с Владиленом Мининым",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T09:32:36.000Z",
+            "updatedAt": "2019-10-27T09:32:36.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/E_d1hpw1ziYLng7R2OId56JEazY\"",
+      "id": "UgxiXlJZLBaWpo39Pj94AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/QgAYeuFEXs36QJfsD2tvYBSpQ64\"",
+          "id": "UgxiXlJZLBaWpo39Pj94AaABAg",
+          "snippet": {
+            "authorDisplayName": "Roman Chekhov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_m0maB2etRKJYzYjoNEr0rJJKoIsHMxZrTsA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChdKYp89d-gv5KYVMBsw1Mw",
+            "authorChannelId": {
+              "value": "UChdKYp89d-gv5KYVMBsw1Mw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Почитал комменты и не увидел, что питон гавно. Сам так не считаю, но традиции надо соблюдать.",
+            "textOriginal": "Почитал комменты и не увидел, что питон гавно. Сам так не считаю, но традиции надо соблюдать.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2019-10-27T09:27:34.000Z",
+            "updatedAt": "2019-10-27T09:27:34.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XYhqnTVM206qTyqGD4wryrciQ_0\"",
+      "id": "UgxkwQ7L5mr5Wcq7XeF4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/O6hdGRsH-VvwUf8pdoWhmv0WTvA\"",
+          "id": "UgxkwQ7L5mr5Wcq7XeF4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Sergey Kapshuchenko",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-jgQ90mGM_9FVnweR3heCOTBSxxtrCF6fz5w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvvdNtMJuWgYxxaZa2LiZKg",
+            "authorChannelId": {
+              "value": "UCvvdNtMJuWgYxxaZa2LiZKg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Но это в Django MVT, в том же Flask - MVC",
+            "textOriginal": "Но это в Django MVT, в том же Flask - MVC",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T09:19:29.000Z",
+            "updatedAt": "2019-10-27T09:19:29.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/n3az60rdoN6otvwvF4oas3KrGDQ\"",
+      "id": "Ugz4UEBVYAt5HlYPOtt4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ZdtCZK03vSnqZ4JwKCiP73bOIzM\"",
+          "id": "Ugz4UEBVYAt5HlYPOtt4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Paul Parker",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79xsnhhRKYt3TbUKpyl94c-GYrSskHOJqSvPw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkPktEkJS-p_C-P7SNhNe1Q",
+            "authorChannelId": {
+              "value": "UCkPktEkJS-p_C-P7SNhNe1Q"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Привет борода!)), запиши с Владиленом Минином интервью, пожалуйста))",
+            "textOriginal": "Привет борода!)), запиши с Владиленом Минином интервью, пожалуйста))",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2019-10-27T09:17:56.000Z",
+            "updatedAt": "2019-10-27T09:17:56.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/5g8a8ReXMTv7yHecJ1wHiWpiPL4\"",
+      "id": "UgwTETKz9rZvjy9mllx4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/KYg7QHCHZc3iZ_UdRULAPfLPB-E\"",
+          "id": "UgwTETKz9rZvjy9mllx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Tim Timov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_7j1Q-Bo9Ez40jdp6bxo2Yx6qoq0BV3d15Uw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCIDU5m-flrC1TGFc64ytjDw",
+            "authorChannelId": {
+              "value": "UCIDU5m-flrC1TGFc64ytjDw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Борода, пригласи кодера ассамблера!",
+            "textOriginal": "Борода, пригласи кодера ассамблера!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T09:12:55.000Z",
+            "updatedAt": "2019-10-27T09:12:55.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/nWETmCvx4x9gNPXVBGv2tFlXzW8\"",
+      "id": "Ugw19-q6LPKnpOz5KAR4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/vOINxT2p8ERXEVpkwFJFXetRcAg\"",
+          "id": "Ugw19-q6LPKnpOz5KAR4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Limon Red",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_xDvpk9QpPgdf6Z2hMGfaMZe1w3sbDDrIoLA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxL2cMqScBYu_1RzcQDT-Rg",
+            "authorChannelId": {
+              "value": "UCxL2cMqScBYu_1RzcQDT-Rg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />pypypythonweb - фреймворк для эффективного обучения AI написанию фреймворков для web",
+            "textOriginal": "#конкурс\npypypythonweb - фреймворк для эффективного обучения AI написанию фреймворков для web",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T07:00:45.000Z",
+            "updatedAt": "2019-10-27T07:00:45.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XpMSt-Np6A9ZF2xwJID2j7FJZVo\"",
+      "id": "UgzgwMWPFjBY9gACCc54AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Q5Mv0GkLHlZHiV_VsppapfTMq3U\"",
+          "id": "UgzgwMWPFjBY9gACCc54AaABAg",
+          "snippet": {
+            "authorDisplayName": "Антон Герасименко",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_Ci1p0SiQfsGDHovoWuEivoQjsqq77yXrcwg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLRbi2ofcwxkhBrQ7yKyXxw",
+            "authorChannelId": {
+              "value": "UCLRbi2ofcwxkhBrQ7yKyXxw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />python no pain<br />(web framework)",
+            "textOriginal": "#конкурс\npython no pain\n(web framework)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T06:50:43.000Z",
+            "updatedAt": "2019-10-27T06:50:43.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/pDfLjT3gwcHreisiic0nmpZobl4\"",
+      "id": "UgyHoeJh_VMCdrJhtpx4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lrsr96xQHalqYK9lH-wHO8IcgxI\"",
+          "id": "UgyHoeJh_VMCdrJhtpx4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Дмитрий Саблин",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78OllnOz6lqs3q6r1KSMXwherMj_CM8prGt9g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyTZ07ar2SGtA1dwIlqb2mg",
+            "authorChannelId": {
+              "value": "UCyTZ07ar2SGtA1dwIlqb2mg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Неужели звук нельзя было получше записать?",
+            "textOriginal": "Неужели звук нельзя было получше записать?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-27T06:44:51.000Z",
+            "updatedAt": "2019-10-27T06:44:51.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/HDNj_dVMjs5hyib6geau0tvUZRo\"",
+      "id": "UgwmruojMYHzorn0w7B4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/3QaIrPF3siNix0QEKkmiJW79kYg\"",
+          "id": "UgwmruojMYHzorn0w7B4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Artur Kogut",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79_z8VtHUZPnk4u4QjDunKctP8PioeBP6u-8w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5hQn6KMbJY021SpMRTRDrg",
+            "authorChannelId": {
+              "value": "UC5hQn6KMbJY021SpMRTRDrg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Если Кофе назвали - Python,<br />то Python фреймворк нужно назвать - Кофе<br /><a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a>",
+            "textOriginal": "Если Кофе назвали - Python,\nто Python фреймворк нужно назвать - Кофе\n#конкурс",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2019-10-27T06:34:51.000Z",
+            "updatedAt": "2019-10-27T06:34:51.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-KtW7MCZrgDKqQTPLxpWPa-ITT4\"",
+      "id": "UgwN2TvODv0pcBLV-_54AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/J12_Q9Z1FSODpNHOsmiBvTzU63I\"",
+          "id": "UgwN2TvODv0pcBLV-_54AaABAg",
+          "snippet": {
+            "authorDisplayName": "Hogel PLUSPLUS",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78Fe2u_ZajCffO4ZV6gZLJ-G6AmkinU6GibQA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCG-gvAC6NcAcr2KC2dpG3mg",
+            "authorChannelId": {
+              "value": "UCG-gvAC6NcAcr2KC2dpG3mg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Прошу от всей души)<br />Завези интервью с C++ программистом. Ждемс....😉",
+            "textOriginal": "Прошу от всей души)\nЗавези интервью с C++ программистом. Ждемс....😉",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-27T06:29:45.000Z",
+            "updatedAt": "2019-10-27T06:29:45.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0JtLIAyaYUPi6hHKlVDdNMv_bwY\"",
+      "id": "UgyPmlfmLrq1_BiKeIl4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2xzr1JboVjPcF9hYnRk0nDKQHrs\"",
+          "id": "UgyPmlfmLrq1_BiKeIl4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Mikalai Mitsin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78SMi6Vv97iqfGKRSSzUY6PMt0OLmZVVL7SPQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCap7-Fn-gw29sKjdP6IECIA",
+            "authorChannelId": {
+              "value": "UCap7-Fn-gw29sKjdP6IECIA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Хе, сравни ограничения по кодстайлу с гошкой)",
+            "textOriginal": "Хе, сравни ограничения по кодстайлу с гошкой)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T23:21:53.000Z",
+            "updatedAt": "2019-10-26T23:21:53.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0gWZG5UCEo853pvwMtIjK2MF5Fw\"",
+      "id": "UgxDwPaNNMOBm2-Pe8J4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/2sQKZ42S0lT0mOvWMdu9Trb9lEM\"",
+          "id": "UgxDwPaNNMOBm2-Pe8J4AaABAg",
+          "snippet": {
+            "authorDisplayName": "DiHandUkr",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_TgohnRKKHeTZBF4_qZNtOAMALR_u1FfkoeQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCZZHpJ8jjwVBi4gJDWZ5MJw",
+            "authorChannelId": {
+              "value": "UCZZHpJ8jjwVBi4gJDWZ5MJw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23its\">#its</a>_magic",
+            "textOriginal": "#its_magic",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T21:46:55.000Z",
+            "updatedAt": "2019-10-26T21:46:55.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/4hwN6OFYAvqDa2WAmtwxPe5sSE0\"",
+      "id": "Ugy3YprRK0tn67IgnCd4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/au9VH9EZSZ14juqtdDLGpdNE7sA\"",
+          "id": "Ugy3YprRK0tn67IgnCd4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Евгений Абаев",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-W55T8MPOInJ2sKDm7l25HYZuwKAVRXiqvqw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCovJJ2INRzwA_LupOz1z0aw",
+            "authorChannelId": {
+              "value": "UCovJJ2INRzwA_LupOz1z0aw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />Будущий фрейм &quot;CoCoDjango&quot;<br /><a href=\"http://www.youtube.com/results?search_query=%23%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D0%B9%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA\">#будущийФреймворк</a> <a href=\"http://www.youtube.com/results?search_query=%23CoCoDjango\">#CoCoDjango</a>",
+            "textOriginal": "#конкурс\nБудущий фрейм \"CoCoDjango\"\n#будущийФреймворк #CoCoDjango",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-26T21:05:52.000Z",
+            "updatedAt": "2019-10-27T00:03:21.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wmeCA7hxB2VN5sMG2ZCQ48L2LZk\"",
+      "id": "UgwjqgsnGtEKnCrAOzV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mgeGHZ0ticI3ogHf1AEa74qYjoI\"",
+          "id": "UgwjqgsnGtEKnCrAOzV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Евгений",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_rHI8OtAxegjDZUzH6Xal0KZbMnaOAkvE3Pw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMMvexmrjwW9MfrOnJ7VeRA",
+            "authorChannelId": {
+              "value": "UCMMvexmrjwW9MfrOnJ7VeRA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Очень здорово было бы услышать Гену Короткевича. Лекс пингуй его каждый день пож-та!",
+            "textOriginal": "Очень здорово было бы услышать Гену Короткевича. Лекс пингуй его каждый день пож-та!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T20:28:35.000Z",
+            "updatedAt": "2019-10-26T20:28:35.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8RLZsqCvp6rh1XqghsoH5QTYpf4\"",
+      "id": "UgyRfyHCNnNZXWD0QDJ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/-coZ3LLWbMoeUzMQKzHMULvwEcA\"",
+          "id": "UgyRfyHCNnNZXWD0QDJ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "KALIOPE",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7816qcv4XAlV9xe596oEf3Og8HjHbpKTnerDg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTYjPm0JJBgmTLJBNIKIhhg",
+            "authorChannelId": {
+              "value": "UCTYjPm0JJBgmTLJBNIKIhhg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "О я как ра вашими продуктами пользуюсь!!!)",
+            "textOriginal": "О я как ра вашими продуктами пользуюсь!!!)",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T19:28:47.000Z",
+            "updatedAt": "2019-10-26T19:28:47.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/TRDz137GDjFDtlpTriy8ul2iAbU\"",
+      "id": "Ugx4lAFJu2tD2I2TEgZ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tBzIi16xMiEOREiWprLr0Uw0b-o\"",
+          "id": "Ugx4lAFJu2tD2I2TEgZ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Админ Злой",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_1J9ixv2yPmhjODq5-qthyYTg5FMeNInsGtQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkweNX2Tocr_TU0naUUGLAQ",
+            "authorChannelId": {
+              "value": "UCkweNX2Tocr_TU0naUUGLAQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> Чебурашка :) Интервью очень интересное получилось. Даже и не заметил как пролетело 2 часа. Оператору, Валику и Rubyroid Labs отдельный лайк за красивую картинку.",
+            "textOriginal": "#конкурс Чебурашка :) Интервью очень интересное получилось. Даже и не заметил как пролетело 2 часа. Оператору, Валику и Rubyroid Labs отдельный лайк за красивую картинку.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T18:46:14.000Z",
+            "updatedAt": "2019-10-26T18:46:14.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ykTFIB4ewxkJhl8PqXjT_cDevm0\"",
+      "id": "UgysGbBLnHmuIEMjs7Z4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/e2JTCuV2u9x-MZedE_oB2-QbXSQ\"",
+          "id": "UgysGbBLnHmuIEMjs7Z4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Trust me i'm an engineer",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_mssW1yaKeNuyZsg4Wc58fHiY6aluZC51B-g=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCCLEbjq0C66Hs0tUKtrTI8Q",
+            "authorChannelId": {
+              "value": "UCCLEbjq0C66Hs0tUKtrTI8Q"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> PyDoor - библиотека для агрегации данных с датчиков открытия/закрытия окон/форточек/дверей и сигнализации в случае их несанкционированного открытия. Слоган - PyDoor держит под контролем Ваш черный ход.",
+            "textOriginal": "#конкурс PyDoor - библиотека для агрегации данных с датчиков открытия/закрытия окон/форточек/дверей и сигнализации в случае их несанкционированного открытия. Слоган - PyDoor держит под контролем Ваш черный ход.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T18:45:10.000Z",
+            "updatedAt": "2019-10-26T18:45:10.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/0OaxlFuGM_S_pcoNTRKoPCMmI9c\"",
+      "id": "UgwyunIRWSdfF-U1ZjN4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/PRHT9xt-Kj3mIZSMkBb5sfeRk7I\"",
+          "id": "UgwyunIRWSdfF-U1ZjN4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Константин Черкасов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_H6pi0tQPuZCbXVIb5JAotbapfiuEmFwNsEg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzAXENGnvUfM819vzHUj4-Q",
+            "authorChannelId": {
+              "value": "UCzAXENGnvUfM819vzHUj4-Q"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> Для быстрого прототипирования restful-api при уже существующей БД с уже существующими таблицами. Фреймворк directrest. Суть: при конфигурации указывается БД и  опционально набор таблиц для которых фреймворк строит restful-api. Также с возможностью выбирать способ аутентификации и регулировать права доступа. Фреймворк сам определит по БД набор REST-ресурсов, построит rest-api и будет валидировать каждый клиентский запрос.",
+            "textOriginal": "#конкурс Для быстрого прототипирования restful-api при уже существующей БД с уже существующими таблицами. Фреймворк directrest. Суть: при конфигурации указывается БД и  опционально набор таблиц для которых фреймворк строит restful-api. Также с возможностью выбирать способ аутентификации и регулировать права доступа. Фреймворк сам определит по БД набор REST-ресурсов, построит rest-api и будет валидировать каждый клиентский запрос.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T16:29:01.000Z",
+            "updatedAt": "2019-10-26T16:29:01.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/nNA9rehX0iT714Sbt4VI3OBomPI\"",
+      "id": "UgwmOCftb4uBO08ReC54AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/KS2VJdvRJ_JRQl31vSuBq8lRlro\"",
+          "id": "UgwmOCftb4uBO08ReC54AaABAg",
+          "snippet": {
+            "authorDisplayName": "Mitai",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79wWf97zJTedBMMFC3tUL7yGFvTssp3UHizEg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCC2tv-f8u2L3rqDV--rlPpw",
+            "authorChannelId": {
+              "value": "UCC2tv-f8u2L3rqDV--rlPpw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "если говорить о вхождение в пайтон и ютубчике, то лучший канал будет это Олег Молчанов",
+            "textOriginal": "если говорить о вхождение в пайтон и ютубчике, то лучший канал будет это Олег Молчанов",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2019-10-26T16:21:01.000Z",
+            "updatedAt": "2019-10-26T16:21:01.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/8Lo5lf79wHdvWexaZz9Wz6SZk3k\"",
+      "id": "UgzsJXlLh3mVD1N2DUN4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XWUgT8sKcTwqT8DKQEZ12_l2imo\"",
+          "id": "UgzsJXlLh3mVD1N2DUN4AaABAg",
+          "snippet": {
+            "authorDisplayName": "GrazZ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l78fFqYp3exTNorqhwBPj3RAZQljk48HsWTGYQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCU8_xLPpMisGDue_VeiaMog",
+            "authorChannelId": {
+              "value": "UCU8_xLPpMisGDue_VeiaMog"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a><br />PykuKpy&#39;ku (Пайку к Пайку)<br />Автоматизирует написание кода. Тебе остается попивать кофеек и наблюдать за процессом. Единственный минус: работает только на windows 8.",
+            "textOriginal": "#конкурс\nPykuKpy'ku (Пайку к Пайку)\nАвтоматизирует написание кода. Тебе остается попивать кофеек и наблюдать за процессом. Единственный минус: работает только на windows 8.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T16:12:55.000Z",
+            "updatedAt": "2019-10-26T16:12:55.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/aSUa1ZiL0X9jFTTjR-1vn0spYGM\"",
+      "id": "UgxcCo6h2oQzUuH_zI54AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mcxZPfO-huDZmRaWksnwLljxGG4\"",
+          "id": "UgxcCo6h2oQzUuH_zI54AaABAg",
+          "snippet": {
+            "authorDisplayName": "Magomed Bankurov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_xwiRoCGUaKsDG1LMJ-9SCbuqGmpzBzQ94aw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGsQysqwWKGToj405XSkmqA",
+            "authorChannelId": {
+              "value": "UCGsQysqwWKGToj405XSkmqA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Привет!<br />С интересом посмотрел выпуск. Всё классно, как обычно.<br />Но взгрустнул, когда Олег рассказывал про историю Python.<br /><br />&quot;&quot;Гвидо писал скрипты. И ему нужно было что-то среднее между Си и shell?! Потому что такого не было и не хватало?!&quot;&quot;.<br />Не могу проигнорировать и не отметить, что это история Perl.<br /><br />Я ждал, что Лекс вмешается и напомнит про Perl. Не дождался.<br /><br />Изначальные принципы и достинства Python - они же причины его создания:<br /><br />1) Гвидо &quot;облагородил&quot; скриптовой синтаксис Perl добавив в него школолошной стилистики в духе языка ABC;<br />2) Предложил идеологию ортогональности (то есть, гибкость языка растёт из минимального количества оптимально спроектированных базовых блоков) взамен перловскому &quot;тимтоуди&quot; (то есть, одно и то же можно делать разными средствами) с его тоннами синтаксического сахара;<br />3) Но самое главное - он добавил в этот новый скриптовой язык ООП, которое, как к тому времени уже стало ясно, становилось промышленным стандартом.<br /><br />Тем не менее, базировалось всё это изначально на принципах, обкатаных в Perl (динамика, линуксовость, сисадминская ориентированность, реверансы в сторону Lisp и тп.).<br /><br />Так что, не забывайте, пожалуйста, легендарный и по-прежнему широко используемый в мире Perl. <br />И не приписывайте его славу Python. Питону и без того есть чем гордиться. <br /><br />Короче, Лекс, пригласи в следущий раз Олега и меня вместе.<br />Он действительно отличный кодер и, вообще, молодец! <br />Ну и я ... в качестве идеолога и историка языков программирования. :))<br />Получится супер сбалансированный выпуск.",
+            "textOriginal": "Привет!\nС интересом посмотрел выпуск. Всё классно, как обычно.\nНо взгрустнул, когда Олег рассказывал про историю Python.\n\n\"\"Гвидо писал скрипты. И ему нужно было что-то среднее между Си и shell?! Потому что такого не было и не хватало?!\"\".\nНе могу проигнорировать и не отметить, что это история Perl.\n\nЯ ждал, что Лекс вмешается и напомнит про Perl. Не дождался.\n\nИзначальные принципы и достинства Python - они же причины его создания:\n\n1) Гвидо \"облагородил\" скриптовой синтаксис Perl добавив в него школолошной стилистики в духе языка ABC;\n2) Предложил идеологию ортогональности (то есть, гибкость языка растёт из минимального количества оптимально спроектированных базовых блоков) взамен перловскому \"тимтоуди\" (то есть, одно и то же можно делать разными средствами) с его тоннами синтаксического сахара;\n3) Но самое главное - он добавил в этот новый скриптовой язык ООП, которое, как к тому времени уже стало ясно, становилось промышленным стандартом.\n\nТем не менее, базировалось всё это изначально на принципах, обкатаных в Perl (динамика, линуксовость, сисадминская ориентированность, реверансы в сторону Lisp и тп.).\n\nТак что, не забывайте, пожалуйста, легендарный и по-прежнему широко используемый в мире Perl. \nИ не приписывайте его славу Python. Питону и без того есть чем гордиться. \n\nКороче, Лекс, пригласи в следущий раз Олега и меня вместе.\nОн действительно отличный кодер и, вообще, молодец! \nНу и я ... в качестве идеолога и историка языков программирования. :))\nПолучится супер сбалансированный выпуск.",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T16:09:52.000Z",
+            "updatedAt": "2019-10-26T16:13:22.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/9OFrPZxNhGVOdm2B5qC5UdVDo-s\"",
+      "id": "Ugy_C0FovbtLUrohhbh4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/UGEWJyPao43iTh8PvJbG0bOsRoA\"",
+          "id": "Ugy_C0FovbtLUrohhbh4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Уважаемый, согласен с вами.",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79xhl53QnzCLlyGbzSNhoKPiZR8_e2zGEDHgw=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJKucN8o2JxCe5fcRd7KLyw",
+            "authorChannelId": {
+              "value": "UCJKucN8o2JxCe5fcRd7KLyw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Джим огурцом держится!",
+            "textOriginal": "Джим огурцом держится!",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T15:57:09.000Z",
+            "updatedAt": "2019-10-26T15:57:09.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/tIIgO7WzDHeWd3S0jhpVe_5OPRM\"",
+      "id": "UgwZCNwwQT4wui3-Vqt4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/XF3FjkzhXdQoB3LItA4j6JyGK8c\"",
+          "id": "UgwZCNwwQT4wui3-Vqt4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Evgeniy Goroshkin",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-GzaBTpvcMcr8T-RSIz_qfpB_G0FPd3yl14A=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTvsfCv9mOTKWGL7AxNkN5A",
+            "authorChannelId": {
+              "value": "UCTvsfCv9mOTKWGL7AxNkN5A"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Классный выпуск.💪<br />И вот ещё что.. Сижу никого не трогаю, пишу код, параллельно смотрю видос, уже перевалило за два часа ночи, глаза начинают закрываться, но решил досмотреть, и тут бац, такая концовочка, специально для меня. 👍<br />Даже подумал что меня проглючило, и утром этого уже не будет, но всё на месте.😁",
+            "textOriginal": "Классный выпуск.💪\nИ вот ещё что.. Сижу никого не трогаю, пишу код, параллельно смотрю видос, уже перевалило за два часа ночи, глаза начинают закрываться, но решил досмотреть, и тут бац, такая концовочка, специально для меня. 👍\nДаже подумал что меня проглючило, и утром этого уже не будет, но всё на месте.😁",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T15:10:56.000Z",
+            "updatedAt": "2019-10-26T15:10:56.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/s_Fp_xirEww6rVJ3ShhMzl0GEf0\"",
+      "id": "Ugz1OCd9LCspqSs91hJ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/ztEY-wJ2bBeok3Z87lBNySY7NIA\"",
+          "id": "Ugz1OCd9LCspqSs91hJ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Nil Mulyashov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_HugaxMllE-7Kyq-hhSW_RH8P_nxtm5ssB2Q=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1yjPsB1iF2wOj9lR4U_DPQ",
+            "authorChannelId": {
+              "value": "UC1yjPsB1iF2wOj9lR4U_DPQ"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "<a href=\"http://www.youtube.com/results?search_query=%23%D0%BA%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D1%81\">#конкурс</a> sPYder&#39;s web",
+            "textOriginal": "#конкурс sPYder's web",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2019-10-26T15:01:28.000Z",
+            "updatedAt": "2019-10-26T15:01:28.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/qjrUfgcIP5RhOXFgtoSJNbk63iU\"",
+      "id": "Ugz3RPAc9ZbXbEkAxJV4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/sMYg7rvmAEyT5EdSsHjfbCkTkD4\"",
+          "id": "Ugz3RPAc9ZbXbEkAxJV4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Юрий иванов",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-whbvmCZ5cE2RU_Kwy66o6-uk6U0Ir7BATdg=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJfCNpDu8meIk7kLS-fIyEw",
+            "authorChannelId": {
+              "value": "UCJfCNpDu8meIk7kLS-fIyEw"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "крутой чувак",
+            "textOriginal": "крутой чувак",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T14:56:38.000Z",
+            "updatedAt": "2019-10-26T14:56:38.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/wpejgxK9DpAeQWfkhKNp7RlQaHk\"",
+      "id": "Ugw9Zttf8XXDeOHoeId4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/lAnA_-RERhZfxCNG6w7kECh5Rkk\"",
+          "id": "Ugw9Zttf8XXDeOHoeId4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Андрей Ковалев",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7_sn82WAAHWzogoSnjs62gl-ouirAPGje7bTQ=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGXXZ63KHSRDVsBnfY3HLgg",
+            "authorChannelId": {
+              "value": "UCGXXZ63KHSRDVsBnfY3HLgg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "О сэм винчестер зарос чет",
+            "textOriginal": "О сэм винчестер зарос чет",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T13:45:35.000Z",
+            "updatedAt": "2019-10-26T13:45:35.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/Na6Y1H4vHYF6sYK9v06axIjumHI\"",
+      "id": "UgxY3CVipARkAI8USCZ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/JUbWHpGQqc5yuPryaCAUQvFM6CM\"",
+          "id": "UgxY3CVipARkAI8USCZ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Джон Сноу",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l79ImUfrfDA8n243TZDxljXJCvmLa3iKEHYKtA=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBnf_7CNgz_wi0mY2JmoFjA",
+            "authorChannelId": {
+              "value": "UCBnf_7CNgz_wi0mY2JmoFjA"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "Блин такая тупость останавливать все потоки, кроме одного. Не проще тогда сделать однопоточное приложение как в ноде?",
+            "textOriginal": "Блин такая тупость останавливать все потоки, кроме одного. Не проще тогда сделать однопоточное приложение как в ноде?",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T13:30:08.000Z",
+            "updatedAt": "2019-10-26T13:30:08.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/DXFKuDS48-Koi4BsWIhiUQt8amE\"",
+      "id": "UgwcQr7CWfzYzl88ezZ4AaABAg",
+      "snippet": {
+        "videoId": "VFBXx7O9BxU",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "\"j6xRRd8dTPVVptg711_CSPADRfg/mGH5D6dCFqXhUg-m_BHqXr2v0SQ\"",
+          "id": "UgwcQr7CWfzYzl88ezZ4AaABAg",
+          "snippet": {
+            "authorDisplayName": "Sergey Kapshuchenko",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/a/AGF-l7-jgQ90mGM_9FVnweR3heCOTBSxxtrCF6fz5w=s48-c-k-c0xffffffff-no-rj-mo",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCvvdNtMJuWgYxxaZa2LiZKg",
+            "authorChannelId": {
+              "value": "UCvvdNtMJuWgYxxaZa2LiZKg"
+            },
+            "videoId": "VFBXx7O9BxU",
+            "textDisplay": "ураааааа, питон",
+            "textOriginal": "ураааааа, питон",
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2019-10-26T13:24:27.000Z",
+            "updatedAt": "2019-10-26T13:24:27.000Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
