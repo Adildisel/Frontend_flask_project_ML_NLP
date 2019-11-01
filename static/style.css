@@ -8,6 +8,21 @@ body{
     text-align: center;
 }
 
+.button{
+    margin: 15px;
+    color: #5d6f5d;
+    background-color: #e2dbdb;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.number_comment{
+    font-size: 25px;
+    font-width: 400;
+    font-style: italic;
+}
+
 #page-preloader{
     position: fixed;
     left: 0;

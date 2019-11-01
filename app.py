@@ -149,9 +149,9 @@ class Helper():
         return id_
     
 
-@app.route('/')
-def init():
-    return render_template('first_app.html')
+# @app.route('/')
+# def init():
+#     return render_template('first_app.html')
 
 @app.route('/bar', methods=['GET', 'POST'])
 def change_features():
@@ -161,7 +161,7 @@ def change_features():
     graphJSON= graph.create_plot(feature)
     return graphJSON
 
-@app.route('/get_graph', methods=['GET','POST'])
+@app.route('/', methods=['GET','POST'])
 def hello_ml():
     form = HelloForm(request.form)
 
@@ -189,7 +189,7 @@ def hello_ml():
             form = HelloForm()
 
             return render_template('hello_ml.html',
-                                   name='Количество отрицательных(0) и положительных(1) отзывов',
+                                   name=[len(negative), len(positive)],
                                    plot=bar,
                                    form=form)
     #
@@ -197,7 +197,7 @@ def hello_ml():
             bar = graph.create_plot_bar()
             form = HelloForm()
             return render_template('hello_ml.html',
-                                   name='Количество отрицательных(0) и положительных(1) отзывов',
+                                   name=[1,1],
                                    plot=bar,
                                    form=form)
 
