@@ -123,19 +123,19 @@ class Helper():
         self.write_int_next()
 
     def get_respons_url_from_djrest(self):
-        url = 'http://localhost:8000/api/v1/app/urls_video_youtube/'
+        url = 'http://adilhan.pythonanywhere.com/api/v1/app/urls_video_youtube/'
         r_djrest = requests.get(url=url)
         data_list = [[i['video_id'], i['name_video'], i['id']] for i in r_djrest.json()['data']]
 
         return data_list
 
     def post_respons_url_from_djrest(self, video_id):
-        url = 'http://localhost:8000/api/v1/app/urls_video_youtube/'
+        url = 'http://adilhan.pythonanywhere.com/api/v1/app/urls_video_youtube/'
         respons = requests.post(url=url, data={'video_id': video_id})
         return respons.json()
 
     def post_comment_for_djrest(self, video='1', comment='text', assessnment='0'):
-        url = 'http://localhost:8000/api/v1/app/comments/'
+        url = 'http://adilhan.pythonanywhere.com/api/v1/app/comments/'
         requests.post(url, data={'video':video, 'comment':comment, 'assessment': assessnment})
 
     def write_id(self, id_):
